@@ -1,0 +1,35 @@
+
+# Base de dados original e arquivos gerados
+dados/bruto/
+dados/tratado/
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+
+# Ambientes e arquivos temporarios Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuracoes locais e segredos
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Arquivos temporarios
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Backups
+*.bak
+*.backup
+
+# Amostras individuais usadas na investigacao
+resultados/duracoes_suspeitas.csv
+resultados/temperaturas_suspeitas.csv

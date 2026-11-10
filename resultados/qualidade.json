@@ -1,0 +1,256 @@
+{
+  "total_registros": 7728394,
+  "ids_distintos": 7728394,
+  "ids_ausentes": 0,
+  "ausentes_por_coluna": [
+    {
+      "coluna": "End_Lat",
+      "ausentes": 3402762,
+      "percentual": 44.03
+    },
+    {
+      "coluna": "End_Lng",
+      "ausentes": 3402762,
+      "percentual": 44.03
+    },
+    {
+      "coluna": "Precipitation(in)",
+      "ausentes": 2203586,
+      "percentual": 28.51
+    },
+    {
+      "coluna": "Wind_Chill(F)",
+      "ausentes": 1999019,
+      "percentual": 25.87
+    },
+    {
+      "coluna": "Wind_Speed(mph)",
+      "ausentes": 571233,
+      "percentual": 7.39
+    },
+    {
+      "coluna": "Visibility(mi)",
+      "ausentes": 177098,
+      "percentual": 2.29
+    },
+    {
+      "coluna": "Wind_Direction",
+      "ausentes": 175206,
+      "percentual": 2.27
+    },
+    {
+      "coluna": "Humidity(%)",
+      "ausentes": 174144,
+      "percentual": 2.25
+    },
+    {
+      "coluna": "Weather_Condition",
+      "ausentes": 173459,
+      "percentual": 2.24
+    },
+    {
+      "coluna": "Temperature(F)",
+      "ausentes": 163853,
+      "percentual": 2.12
+    },
+    {
+      "coluna": "Pressure(in)",
+      "ausentes": 140679,
+      "percentual": 1.82
+    },
+    {
+      "coluna": "Weather_Timestamp",
+      "ausentes": 120228,
+      "percentual": 1.56
+    },
+    {
+      "coluna": "Sunrise_Sunset",
+      "ausentes": 23246,
+      "percentual": 0.3
+    },
+    {
+      "coluna": "Civil_Twilight",
+      "ausentes": 23246,
+      "percentual": 0.3
+    },
+    {
+      "coluna": "Nautical_Twilight",
+      "ausentes": 23246,
+      "percentual": 0.3
+    },
+    {
+      "coluna": "Astronomical_Twilight",
+      "ausentes": 23246,
+      "percentual": 0.3
+    },
+    {
+      "coluna": "Airport_Code",
+      "ausentes": 22635,
+      "percentual": 0.29
+    },
+    {
+      "coluna": "Street",
+      "ausentes": 10869,
+      "percentual": 0.14
+    },
+    {
+      "coluna": "Timezone",
+      "ausentes": 7808,
+      "percentual": 0.1
+    },
+    {
+      "coluna": "Zipcode",
+      "ausentes": 1915,
+      "percentual": 0.02
+    },
+    {
+      "coluna": "ID",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Source",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Severity",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Start_Time",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "End_Time",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Start_Lat",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Start_Lng",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Distance(mi)",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Description",
+      "ausentes": 5,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "City",
+      "ausentes": 253,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "County",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "State",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Country",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Amenity",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Bump",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Crossing",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Give_Way",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Junction",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "No_Exit",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Railway",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Roundabout",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Station",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Stop",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Traffic_Calming",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Traffic_Signal",
+      "ausentes": 0,
+      "percentual": 0.0
+    },
+    {
+      "coluna": "Turning_Loop",
+      "ausentes": 0,
+      "percentual": 0.0
+    }
+  ],
+  "gravidade": [
+    [
+      "1",
+      67366
+    ],
+    [
+      "2",
+      6156981
+    ],
+    [
+      "3",
+      1299337
+    ],
+    [
+      "4",
+      204710
+    ]
+  ],
+  "tempo_segundos": 37.21
+}

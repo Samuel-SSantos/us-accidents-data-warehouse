@@ -1,0 +1,78 @@
+{
+  "periodo": [
+    "2016-01-14 20:18:33",
+    "2023-03-31 23:30:00"
+  ],
+  "datas_invalidas": {
+    "inicio": 0,
+    "fim": 0
+  },
+  "duracoes": {
+    "negativas": 0,
+    "maiores_7_dias": 6818,
+    "zero": 0
+  },
+  "valores_suspeitos": {
+    "Temperaturas fora dos limites de triagem": 22,
+    "Umidade fora de 0 a 100%": 0,
+    "Coordenadas geográficas inválidas": 0,
+    "Visibilidade negativa": 0,
+    "Distância negativa": 0
+  },
+  "top_10_estados": [
+    [
+      "CA",
+      1741433
+    ],
+    [
+      "FL",
+      880192
+    ],
+    [
+      "TX",
+      582837
+    ],
+    [
+      "SC",
+      382557
+    ],
+    [
+      "NY",
+      347960
+    ],
+    [
+      "NC",
+      338199
+    ],
+    [
+      "VA",
+      303301
+    ],
+    [
+      "PA",
+      296620
+    ],
+    [
+      "MN",
+      192084
+    ],
+    [
+      "OR",
+      179660
+    ]
+  ],
+  "fontes": [
+    [
+      "Source1",
+      4325632
+    ],
+    [
+      "Source2",
+      3305373
+    ],
+    [
+      "Source3",
+      97389
+    ]
+  ]
+}
